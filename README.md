@@ -1,0 +1,1 @@
+This file serves as a simple HTML redirect to my website (hosted on [UW's student server](https://students.washington.edu/bcolberg/website)); it's hosted at brennancolberg.com essentially just so that my GitHub Pages sites can be referenced as brennancolberg.com/site
